@@ -9,3 +9,8 @@ console.log(result)
 
 var result1 = 5 >=5
 console.log (result1)
+
+var result2 = 6> 5
+console.log (result2)
+
+var result3 = a==b
