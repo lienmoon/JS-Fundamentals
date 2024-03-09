@@ -6,3 +6,6 @@
 // <= - less than equal
 var result = 4 > 5
 console.log(result)
+
+var result1 = 5 >=5
+console.log (result1)
